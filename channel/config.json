@@ -1,0 +1,15 @@
+[
+  {
+  "is_pack": true,
+  "name": "sw",
+  "sdk_debug": false,
+  "package_name": "com.changwan.hlyxpd.sw",
+  "app_name": "欢乐游戏派对"
+}, {
+  "is_pack": false,
+  "name": "sogou",
+  "sdk_debug": false,
+  "package_name": "com.changwan.hlyxpd.sogou",
+  "app_name": "欢乐游戏派对"
+}
+]

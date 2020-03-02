@@ -1,0 +1,84 @@
+{
+	"package_name": "com.changwan.hlyxpd.sw",
+	"cw_appid": "20200226182901",
+	"cw_channel": "19112912",
+	"td_appid": "D598AC0C5A0342B5811770D44BC8C1FB",
+	"channel": "瞬玩",
+	"ad_appid": "5052071",
+	"splash_ad": [{
+		"cw_position": "4b0eee4dc930ffda238c2d19df9efd0b",
+		"sdk_position": "887302264",
+		"desc": "开屏广告"
+	},{
+      		"cw_position": "1b7e9a33a238e253839983537ff9bfa0",
+      		"sdk_position": "887302264",
+      		"desc": "开屏广告激励"
+      	},
+      	{
+      		"cw_position": "1b7e9a33a238e253839983537ff9bfa0",
+      		"sdk_position": "887302264",
+      		"desc": "开屏广告全屏"
+      	},
+      	{
+              		"cw_position": "ff9c8b4034603c6d0c9faa0a7295a409",
+              		"sdk_position": "887302264",
+              		"desc": "返回主页"
+              	}
+      	],
+	"interstitial_ad": [{
+			"cw_position": "a724e6434f2ba0f278c35e5b21b2f04e",
+			"sdk_position": "945068335",
+			"desc": "选项/声音"
+		},{
+			"cw_position": "23810bf632d9f5c99fcd92c44727ec02",
+			"sdk_position": "945068335",
+			"desc": "切换颜色"
+		},{
+			"cw_position": "23810bf632d9f5c99fcd92c44727ec02",
+			"sdk_position": "945068335",
+			"desc": "重新开始（继续游戏）"
+		},{
+			"cw_position": "23810bf632d9f5c99fcd92c44727ec02",
+			"sdk_position": "945068335",
+			"desc": "下一关"
+		},{
+			"cw_position": "23810bf632d9f5c99fcd92c44727ec02",
+			"sdk_position": "945068335",
+			"desc": "下一关"
+
+		}
+	],
+	"banner_ad": {
+		"cw_position": "6190ab9747c244a1302f9a5e166c00a1",
+		"sdk_position": "945068334",
+		"desc": "banner1"
+	},
+	"reward_ad": [{
+			"cw_position": "1264759adb986fbac2268f23dac9d737",
+			"sdk_position": "945068337",
+			"desc": "激励视频解锁"
+		}
+	],
+	"fullscreen_ad": [
+	{
+			"cw_position": "e5e03f7f8807e0e8df901e620735643d",
+			"sdk_position": "945068336",
+			"desc": "过关成功"
+		},
+		{
+        			"cw_position": "248750bb1db9185e601e99edff4d15d8",
+        			"sdk_position": "945068336",
+        			"desc": "概率过关失败"
+        		},
+        		{
+                			"cw_position": "e5e03f7f8807e0e8df901e620735643d",
+                			"sdk_position": "945068336",
+                			"desc": "过关失败"
+                },
+                {
+                                			"cw_position": "54a10b398d4a012212620034985db4c9",
+                                			"sdk_position": "945068336",
+                                			"desc": "暂停"
+                                }
+	]
+}
